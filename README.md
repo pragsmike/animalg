@@ -27,7 +27,9 @@ where boot has started the nREPL server.  You're not yet talking to the CLJS
 REPL that would evaluate expressions in the browser (the "browser REPL").
 To start such a browser REPL, in the first REPL do
 
-```(start-repl)```
+```
+(start-repl)
+```
 
 Point a browser at http://localhost:3000/ to see the application page.
 
