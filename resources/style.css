@@ -1,0 +1,9 @@
+body {
+   background-color: rgb(122,135,160);
+}
+
+.title {
+   color: white;
+   padding: 7px;
+   background: rgb(55, 45, 60);
+}

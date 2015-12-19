@@ -1,0 +1,3 @@
+{:require  [animalg.app]
+ :init-fns [animalg.app/init]
+ :compiler-options {:asset-path "js/app.out"}}}
