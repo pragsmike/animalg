@@ -3,6 +3,9 @@
 A toy for learning about ClojureScript, using [boot](https://github.com/boot-clj/boot) 
 for build/run/repl and [reagent](https://reagent-project.github.io/) for rendering in ReactJS.
 
+I highly recommend the [Modern ClojureScript tutorial](https://github.com/magomimmo/modern-cljs/blob/master/doc/second-edition/tutorial-01.md)
+for an in-depth treatment of how to use boot to develop browser-side ClojureScript.
+
 This animates various sorting algorithms.
 Right now it only does bubble sort.
 
