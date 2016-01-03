@@ -6,6 +6,8 @@ for build/run/repl and [reagent](https://reagent-project.github.io/) for renderi
 I highly recommend the [Modern ClojureScript tutorial](https://github.com/magomimmo/modern-cljs/blob/master/doc/second-edition/tutorial-01.md)
 for an in-depth treatment of how to use boot to develop browser-side ClojureScript.
 
+[re-frame](https://github.com/Day8/re-frame) explains how to use Reagent.
+
 This animates various sorting algorithms.
 Right now it only does bubble sort.
 
